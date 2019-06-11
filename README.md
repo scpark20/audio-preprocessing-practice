@@ -14,7 +14,7 @@ DFT를 학습하기 앞서 간단한 삼각함수를 공부합니다.
 ### 5.synthesis.ipynb
 DFT를 학습하기 앞서 사인파를 조합하여 톱니파(sawtooth)와 사각파(square)를 만들어 봅니다.
 
-### 5.analysis.ipynb
+### 6.analysis.ipynb
 각기 다른 주기를 갖는 cos과 sin을 이용하여 DFT를 수행합니다. 
 복소지수함수를 이용하여 같은 일을 해봅니다.
 STFT(short time fourier transform)를 구현하여 spectrogram을 얻고, 
