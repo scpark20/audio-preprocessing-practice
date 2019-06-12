@@ -19,6 +19,3 @@ DFT를 학습하기 앞서 사인파를 조합하여 톱니파(sawtooth)와 사�
 복소지수함수를 이용하여 같은 일을 해봅니다.
 STFT(short time fourier transform)를 구현하여 spectrogram을 얻고, 
 mel matrix를 이용해 mel-spectrogram를 얻는 연습을 합니다.
-
-### 7.simple_tacotron_pytorch.ipynb
-Tacotron모델을 학습하고, Tacotron모델이 어떻게 text와 melspectgram을 입력으로 받아 트레이닝하는지 알아봅니다.
