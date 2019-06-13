@@ -19,3 +19,6 @@ DFT를 학습하기 앞서 사인파를 조합하여 톱니파(sawtooth)와 사�
 복소지수함수를 이용하여 같은 일을 해봅니다.
 STFT(short time fourier transform)를 구현하여 spectrogram을 얻고, 
 mel matrix를 이용해 mel-spectrogram를 얻는 연습을 합니다.
+
+### 7.deep learning for audio processing.pdf
+오디오 프로세싱에 사용되는 딥러닝 모델들을 알아봅니다.
